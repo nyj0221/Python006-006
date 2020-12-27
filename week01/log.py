@@ -14,5 +14,3 @@ logging.warning("这是一条warn信息的打印")
 logging.debug("这是一条debug信息的打印")
 if __name__=='__main__':
 unittest.main()
-
-
